@@ -123,7 +123,7 @@ $ rails db:migrate
 ```
 Run this command line to add some dummy data
 ```
-$ rails db:seed
+$ rails db: seed
 ```
 
  - Finaly run `rails s` and visit http://localhost:3000/  in your browser!
