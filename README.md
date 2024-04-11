@@ -115,7 +115,7 @@ $ npm install
 
 make sure the database is up and running.
 ```
-$ rails db:create
+$ rails db: create
 ```
 When you add a migration file, you can add commands like
 ```
