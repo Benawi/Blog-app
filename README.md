@@ -130,7 +130,7 @@ $ rails db: seed
 
 ### Run Tests <a name="run-tests"></a>
 
-Go to your gemfile and add the RSpec gem in the development, test group:
+Go to your gemfile and add the RSpec gem in the development test group:
 
  ```
  group : development, test do  
