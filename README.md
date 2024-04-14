@@ -86,7 +86,7 @@ In order to run this project you need:
  (else You can install `Rails` just with this simple command  ```gem install rails```)
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder
 
 ```
   git clone https://github.com/Benawi/Blog-App.git
