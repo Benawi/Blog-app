@@ -28,7 +28,7 @@ A Blog app similar classic blog website. With a fully functional website that sh
 The project is a repository consisting of the following files:
 
 - Ruby files.
-- Rails files.
+- Rails files
 - Ruby linters file.
 
 ## 🛠 Built With <a name="built-with"></a>
